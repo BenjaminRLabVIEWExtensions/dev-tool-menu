@@ -1,2 +1,2 @@
-# my-pull-down-menu
-Adds VIs into the LabVIEW Menus.
+# Dev Tools Menu
+Adds Dev Tool VIs into the LabVIEW Menus (Tools and Help).
