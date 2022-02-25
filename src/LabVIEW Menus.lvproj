@@ -30,6 +30,9 @@
 				</Item>
 			</Item>
 		</Item>
+		<Item Name="support" Type="Folder">
+			<Item Name="Post-Install Custom Action.vi" Type="VI" URL="../support/Post-Install Custom Action.vi"/>
+		</Item>
 		<Item Name="wizard" Type="Folder">
 			<Item Name="BenjaminR" Type="Folder">
 				<Item Name="_BenjaminR_VI_Template.vit" Type="VI" URL="../wizard/BenjaminR/_BenjaminR_VI_Template.vit"/>
