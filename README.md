@@ -13,7 +13,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#labview-shortcut-provider">LabVIEW Shortcut Provider</a>
+      <a href="#dev-tools-menu">Dev Tools Menu</a>
       <ul>
         <li><a href="#"></a></li>
         <li><a href="#"></a></li>
