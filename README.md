@@ -36,6 +36,6 @@ Adds Dev Tool VIs into the LabVIEW Menus (Tools and Help).
 [issues-shield]: https://img.shields.io/github/issues/BenjaminRLabVIEWExtensions/dev-tool-menu?style=for-the-badge
 [issues-url]: https://github.com/BenjaminRLabVIEWExtensions/dev-tool-menu/issues
 [license-shield]: https://img.shields.io/badge/LICENSE-Zero--Clause%20BSD-green?style=for-the-badge
-[license-url]: https://github.com/BenjaminRLabVIEWExtensions/dev-tool-menu/master/LICENSE
+[license-url]: https://github.com/BenjaminRLabVIEWExtensions/dev-tool-menu/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/benjaminrouffet/
