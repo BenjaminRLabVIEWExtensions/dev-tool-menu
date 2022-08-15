@@ -27,17 +27,8 @@
 					<Item Name="Refresh LabVIEW Menus.vi" Type="VI" URL="../project/BenjaminR/IDE Tools/Refresh LabVIEW Menus.vi"/>
 				</Item>
 				<Item Name="VI Tools" Type="Folder">
-					<Property Name="NI.SortType" Type="Int">3</Property>
-					<Item Name="_getViGeneralInfo.vi" Type="VI" URL="../project/BenjaminR/VI Tools/_getViGeneralInfo.vi"/>
-					<Item Name="_getViVersion.vi" Type="VI" URL="../project/BenjaminR/VI Tools/_getViVersion.vi"/>
-					<Item Name="_getViDocumentationInfo.vi" Type="VI" URL="../project/BenjaminR/VI Tools/_getViDocumentationInfo.vi"/>
-					<Item Name="_getViBookmarksInfo.vi" Type="VI" URL="../project/BenjaminR/VI Tools/_getViBookmarksInfo.vi"/>
-					<Item Name="_getViConPane.vi" Type="VI" URL="../project/BenjaminR/VI Tools/_getViConPane.vi"/>
-					<Item Name="Connector Pane Patterns.ctl" Type="VI" URL="../project/BenjaminR/VI Tools/Connector Pane Patterns.ctl"/>
-					<Item Name="_getViExecutionInfo.vi" Type="VI" URL="../project/BenjaminR/VI Tools/_getViExecutionInfo.vi"/>
-					<Item Name="_menuLaunchVI.vi" Type="VI" URL="../project/BenjaminR/VI Tools/_menuLaunchVI.vi"/>
 					<Item Name="_systemErrorClusterReplacement.vi" Type="VI" URL="../project/BenjaminR/VI Tools/_systemErrorClusterReplacement.vi"/>
-					<Item Name="Get VI Information.vi" Type="VI" URL="../project/BenjaminR/VI Tools/Get VI Information.vi"/>
+					<Item Name="Determine ConPane Pattern.vi" Type="VI" URL="../project/BenjaminR/VI Tools/Determine ConPane Pattern.vi"/>
 					<Item Name="Save Global.vi" Type="VI" URL="../project/BenjaminR/VI Tools/Save Global.vi"/>
 					<Item Name="System Error Cluster Replacement.vi" Type="VI" URL="../project/BenjaminR/VI Tools/System Error Cluster Replacement.vi"/>
 					<Item Name="VI Tools.txt" Type="Document" URL="../project/BenjaminR/VI Tools/VI Tools.txt"/>
@@ -66,7 +57,6 @@
 				<Item Name="Details Display Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Details Display Dialog.vi"/>
 				<Item Name="DialogType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogType.ctl"/>
 				<Item Name="DialogTypeEnum.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogTypeEnum.ctl"/>
-				<Item Name="Draw Flattened Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Flattened Pixmap.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="Error Code Database.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Code Database.vi"/>
 				<Item Name="ErrWarn.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/ErrWarn.ctl"/>
@@ -74,7 +64,6 @@
 				<Item Name="eventvkey.ctl" Type="VI" URL="/&lt;vilib&gt;/event_ctls.llb/eventvkey.ctl"/>
 				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
 				<Item Name="Find Tag.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find Tag.vi"/>
-				<Item Name="FixBadRect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/FixBadRect.vi"/>
 				<Item Name="Format Message String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Format Message String.vi"/>
 				<Item Name="General Error Handler Core CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler Core CORE.vi"/>
 				<Item Name="General Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler.vi"/>
@@ -83,7 +72,6 @@
 				<Item Name="Get Text Rect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Get Text Rect.vi"/>
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
 				<Item Name="GetRTHostConnectedProp.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetRTHostConnectedProp.vi"/>
-				<Item Name="imagedata.ctl" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/imagedata.ctl"/>
 				<Item Name="List Directory and LLBs.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/List Directory and LLBs.vi"/>
 				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
