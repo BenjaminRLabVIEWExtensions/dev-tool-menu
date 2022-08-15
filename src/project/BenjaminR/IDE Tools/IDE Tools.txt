@@ -1,3 +1,2 @@
-IDE Tools - Get All Contexts.vi
 IDE Tools - Quit and Restart LabVIEW.vi
 IDE Tools - Refresh LabVIEW Menus.vi

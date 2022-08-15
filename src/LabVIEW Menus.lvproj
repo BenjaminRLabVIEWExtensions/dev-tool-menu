@@ -19,6 +19,7 @@
 		<Item Name="project" Type="Folder">
 			<Item Name="BenjaminR" Type="Folder">
 				<Item Name="IDE Tools" Type="Folder">
+					<Item Name="Get All Contexts.vi" Type="VI" URL="../project/BenjaminR/IDE Tools/Get All Contexts.vi"/>
 					<Item Name="IDE Tools.txt" Type="Document" URL="../project/BenjaminR/IDE Tools/IDE Tools.txt"/>
 					<Item Name="Quit and Restart LabVIEW.vi" Type="VI" URL="../project/BenjaminR/IDE Tools/Quit and Restart LabVIEW.vi"/>
 					<Item Name="Refresh LabVIEW Menus.vi" Type="VI" URL="../project/BenjaminR/IDE Tools/Refresh LabVIEW Menus.vi"/>
