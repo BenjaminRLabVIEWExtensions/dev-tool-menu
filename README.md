@@ -13,10 +13,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#labview-menus">BenjaminR LabVIEW Menus</a>
-      <ul>
-				<li><a href="#installation">Installation Instructions</a></li>
-      </ul>
+      <a href="#installation">Installation Instructions</a>
     </li>
     <li>
       <a href="#file-menu">File Menu</a>
