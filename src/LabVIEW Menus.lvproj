@@ -19,6 +19,7 @@
 		<Item Name="project" Type="Folder">
 			<Item Name="BenjaminR" Type="Folder">
 				<Item Name="IDE Tools" Type="Folder">
+					<Item Name="IDE Tools.txt" Type="Document" URL="../project/BenjaminR/IDE Tools/IDE Tools.txt"/>
 					<Item Name="Quit and Restart LabVIEW.vi" Type="VI" URL="../project/BenjaminR/IDE Tools/Quit and Restart LabVIEW.vi"/>
 					<Item Name="Refresh LabVIEW Menus.vi" Type="VI" URL="../project/BenjaminR/IDE Tools/Refresh LabVIEW Menus.vi"/>
 				</Item>
@@ -27,7 +28,12 @@
 					<Item Name="Determine ConPane Pattern.vi" Type="VI" URL="../project/BenjaminR/VI Tools/Determine ConPane Pattern.vi"/>
 					<Item Name="Save Global.vi" Type="VI" URL="../project/BenjaminR/VI Tools/Save Global.vi"/>
 					<Item Name="System Error Cluster Replacement.vi" Type="VI" URL="../project/BenjaminR/VI Tools/System Error Cluster Replacement.vi"/>
+					<Item Name="VI Tools.txt" Type="Document" URL="../project/BenjaminR/VI Tools/VI Tools.txt"/>
 				</Item>
+				<Item Name="_BenjaminR_VI_Template.vit" Type="VI" URL="../project/BenjaminR/_BenjaminR_VI_Template.vit"/>
+				<Item Name="_Get Monitor Center Point.vi" Type="VI" URL="../project/BenjaminR/_Get Monitor Center Point.vi"/>
+				<Item Name="BenjaminR.txt" Type="Document" URL="../project/BenjaminR/BenjaminR.txt"/>
+				<Item Name="Create New VI from Template.vi" Type="VI" URL="../project/BenjaminR/Create New VI from Template.vi"/>
 			</Item>
 		</Item>
 		<Item Name="support" Type="Folder">
@@ -35,13 +41,15 @@
 		</Item>
 		<Item Name="wizard" Type="Folder">
 			<Item Name="BenjaminR" Type="Folder">
-				<Item Name="_BenjaminR_VI_Template.vit" Type="VI" URL="../wizard/BenjaminR/_BenjaminR_VI_Template.vit"/>
-				<Item Name="Create New VI.vi" Type="VI" URL="../wizard/BenjaminR/Create New VI.vi"/>
+				<Item Name="BenjaminR.txt" Type="Document" URL="../wizard/BenjaminR/BenjaminR.txt"/>
+				<Item Name="New VI from Template.vi" Type="VI" URL="../wizard/BenjaminR/New VI from Template.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
+				<Item Name="_Rect2TopLeftPoint__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Alignment/_Rect2TopLeftPoint__lava_lib_ui_tools.vi"/>
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
+				<Item Name="CenterRectInBnds.vi" Type="VI" URL="/&lt;vilib&gt;/picture/PictureSupport.llb/CenterRectInBnds.vi"/>
 				<Item Name="Check Special Tags.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Check Special Tags.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="Convert property node font to graphics font.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Convert property node font to graphics font.vi"/>
@@ -73,11 +81,14 @@
 				<Item Name="Open URL in Default Browser core.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/browser.llb/Open URL in Default Browser core.vi"/>
 				<Item Name="Open URL in Default Browser.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/browser.llb/Open URL in Default Browser.vi"/>
 				<Item Name="Path to URL.vi" Type="VI" URL="/&lt;vilib&gt;/printing/PathToURL.llb/Path to URL.vi"/>
+				<Item Name="POffsetRect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/PictureSupport.llb/POffsetRect.vi"/>
+				<Item Name="RectCentroid.vi" Type="VI" URL="/&lt;vilib&gt;/picture/PictureSupport.llb/RectCentroid.vi"/>
 				<Item Name="Recursive File List.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Recursive File List.vi"/>
 				<Item Name="Search and Replace Pattern.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Search and Replace Pattern.vi"/>
 				<Item Name="Set Bold Text.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set Bold Text.vi"/>
 				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
+				<Item Name="Snap to Point__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Alignment/Snap to Point__lava_lib_ui_tools.vi"/>
 				<Item Name="subFile Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/express/express input/FileDialogBlock.llb/subFile Dialog.vi"/>
 				<Item Name="TagReturnType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/TagReturnType.ctl"/>
 				<Item Name="Three Button Dialog CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog CORE.vi"/>
