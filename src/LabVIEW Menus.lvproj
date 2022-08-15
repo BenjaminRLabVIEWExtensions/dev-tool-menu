@@ -13,12 +13,16 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="help" Type="Folder">
 			<Item Name="BenjaminR" Type="Folder">
+				<Item Name="_Open Help in Default Browser.vi" Type="VI" URL="../help/BenjaminR/_Open Help in Default Browser.vi"/>
 				<Item Name="About.vi" Type="VI" URL="../help/BenjaminR/About.vi"/>
+				<Item Name="BenjaminR LabVIEW Menus (Help).vi" Type="VI" URL="../help/BenjaminR/BenjaminR LabVIEW Menus (Help).vi"/>
+				<Item Name="BenjaminR LabVIEW Menus.htm" Type="Document" URL="../help/BenjaminR/BenjaminR LabVIEW Menus.htm"/>
 			</Item>
 		</Item>
 		<Item Name="project" Type="Folder">
 			<Item Name="BenjaminR" Type="Folder">
 				<Item Name="IDE Tools" Type="Folder">
+					<Item Name="IDE Tools.txt" Type="Document" URL="../project/BenjaminR/IDE Tools/IDE Tools.txt"/>
 					<Item Name="Quit and Restart LabVIEW.vi" Type="VI" URL="../project/BenjaminR/IDE Tools/Quit and Restart LabVIEW.vi"/>
 					<Item Name="Refresh LabVIEW Menus.vi" Type="VI" URL="../project/BenjaminR/IDE Tools/Refresh LabVIEW Menus.vi"/>
 				</Item>
@@ -27,7 +31,12 @@
 					<Item Name="Determine ConPane Pattern.vi" Type="VI" URL="../project/BenjaminR/VI Tools/Determine ConPane Pattern.vi"/>
 					<Item Name="Save Global.vi" Type="VI" URL="../project/BenjaminR/VI Tools/Save Global.vi"/>
 					<Item Name="System Error Cluster Replacement.vi" Type="VI" URL="../project/BenjaminR/VI Tools/System Error Cluster Replacement.vi"/>
+					<Item Name="VI Tools.txt" Type="Document" URL="../project/BenjaminR/VI Tools/VI Tools.txt"/>
 				</Item>
+				<Item Name="_BenjaminR_VI_Template.vit" Type="VI" URL="../project/BenjaminR/_BenjaminR_VI_Template.vit"/>
+				<Item Name="_Get Monitor Center Point.vi" Type="VI" URL="../project/BenjaminR/_Get Monitor Center Point.vi"/>
+				<Item Name="BenjaminR.txt" Type="Document" URL="../project/BenjaminR/BenjaminR.txt"/>
+				<Item Name="Create New VI from Template.vi" Type="VI" URL="../project/BenjaminR/Create New VI from Template.vi"/>
 			</Item>
 		</Item>
 		<Item Name="support" Type="Folder">
@@ -35,8 +44,8 @@
 		</Item>
 		<Item Name="wizard" Type="Folder">
 			<Item Name="BenjaminR" Type="Folder">
-				<Item Name="_BenjaminR_VI_Template.vit" Type="VI" URL="../wizard/BenjaminR/_BenjaminR_VI_Template.vit"/>
-				<Item Name="Create New VI.vi" Type="VI" URL="../wizard/BenjaminR/Create New VI.vi"/>
+				<Item Name="BenjaminR.txt" Type="Document" URL="../wizard/BenjaminR/BenjaminR.txt"/>
+				<Item Name="New VI from Template.vi" Type="VI" URL="../wizard/BenjaminR/New VI from Template.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
