@@ -13,8 +13,10 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="help" Type="Folder">
 			<Item Name="BenjaminR" Type="Folder">
+				<Item Name="_Open Help in Default Browser.vi" Type="VI" URL="../help/BenjaminR/_Open Help in Default Browser.vi"/>
 				<Item Name="About.vi" Type="VI" URL="../help/BenjaminR/About.vi"/>
-				<Item Name="BenjaminR Development Tool Menu Help.htm" Type="Document" URL="../help/BenjaminR/BenjaminR Development Tool Menu Help.htm"/>
+				<Item Name="BenjaminR LabVIEW Menus (Help).vi" Type="VI" URL="../help/BenjaminR/BenjaminR LabVIEW Menus (Help).vi"/>
+				<Item Name="BenjaminR LabVIEW Menus.htm" Type="Document" URL="../help/BenjaminR/BenjaminR LabVIEW Menus.htm"/>
 			</Item>
 		</Item>
 		<Item Name="project" Type="Folder">
