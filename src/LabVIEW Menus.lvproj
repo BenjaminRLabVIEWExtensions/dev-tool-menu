@@ -34,7 +34,7 @@
 					<Item Name="VI Tools.txt" Type="Document" URL="../project/BenjaminR/VI Tools/VI Tools.txt"/>
 				</Item>
 				<Item Name="BenjaminR - Create New VI from Template.vi" Type="VI" URL="../project/BenjaminR/BenjaminR - Create New VI from Template.vi"/>
-				<Item Name="benjamin_r.txt" Type="Document" URL="../project/BenjaminR/benjamin_r.txt"/>
+				<Item Name="BenjaminR.txt" Type="Document" URL="../project/BenjaminR/BenjaminR.txt"/>
 			</Item>
 		</Item>
 		<Item Name="help" Type="Folder">
@@ -43,6 +43,13 @@
 				<Item Name="BenjaminR - LabVIEW Menus (Help).vi" Type="VI" URL="../help/BenjaminR/BenjaminR - LabVIEW Menus (Help).vi"/>
 				<Item Name="BenjaminR LabVIEW Menus.htm" Type="Document" URL="../help/BenjaminR/BenjaminR LabVIEW Menus.htm"/>
 			</Item>
+		</Item>
+		<Item Name="templates" Type="Folder">
+			<Item Name="BenjaminR" Type="Folder">
+				<Item Name="BenjaminR Template.vit" Type="VI" URL="../templates/BenjaminR/BenjaminR Template.vit"/>
+				<Item Name="BenjaminR Template.png" Type="Document" URL="../templates/BenjaminR/BenjaminR Template.png"/>
+			</Item>
+			<Item Name="BenjaminR.txt" Type="Document" URL="../templates/BenjaminR.txt"/>
 		</Item>
 		<Item Name="vi.lib" Type="Folder">
 			<Item Name="addons" Type="Folder">
@@ -64,6 +71,9 @@
 					</Item>
 				</Item>
 			</Item>
+		</Item>
+		<Item Name="support" Type="Folder">
+			<Item Name="Post-Install Custom Action.vi" Type="VI" URL="../support/Post-Install Custom Action.vi"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -119,6 +129,7 @@
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="VI Scripting - Traverse.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/traverseref.llb/VI Scripting - Traverse.lvlib"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
+				<Item Name="Stall Data Flow.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/Stall Data Flow.vim"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
