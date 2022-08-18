@@ -1,5 +1,5 @@
-benjamin_r - Save Global.vi
-benjamin_r - System Error Cluster Replacement.vi
+BenjaminR - Save Global.vi
+BenjaminR - System Error Cluster Replacement.vi
 -
-benjamin_r - Get VI Information.vi
-benjamin_r - Determine ConPane Pattern.vi
+BenjaminR - Get VI Information.vi
+BenjaminR - Determine ConPane Pattern.vi

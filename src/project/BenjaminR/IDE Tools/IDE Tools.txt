@@ -1,2 +1,2 @@
-benjamin_r - Quit and Restart LabVIEW.vi
-benjamin_r - Refresh LabVIEW Menus.vi
+BenjaminR - Quit and Restart LabVIEW.vi
+BenjaminR - Refresh LabVIEW Menus.vi

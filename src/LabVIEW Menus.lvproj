@@ -16,31 +16,31 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="wizard" Type="Folder">
 			<Item Name="BenjaminR" Type="Folder">
-				<Item Name="benjamin_r - New VI from Template.vi" Type="VI" URL="../wizard/BenjaminR/benjamin_r - New VI from Template.vi"/>
+				<Item Name="BenjaminR - New VI from Template.vi" Type="VI" URL="../wizard/BenjaminR/BenjaminR - New VI from Template.vi"/>
 			</Item>
 		</Item>
 		<Item Name="project" Type="Folder">
 			<Item Name="BenjaminR" Type="Folder">
 				<Item Name="IDE Tools" Type="Folder">
-					<Item Name="benjamin_r - Quit and Restart LabVIEW.vi" Type="VI" URL="../project/BenjaminR/IDE Tools/benjamin_r - Quit and Restart LabVIEW.vi"/>
-					<Item Name="benjamin_r - Refresh LabVIEW Menus.vi" Type="VI" URL="../project/BenjaminR/IDE Tools/benjamin_r - Refresh LabVIEW Menus.vi"/>
+					<Item Name="BenjaminR - Quit and Restart LabVIEW.vi" Type="VI" URL="../project/BenjaminR/IDE Tools/BenjaminR - Quit and Restart LabVIEW.vi"/>
+					<Item Name="BenjaminR - Refresh LabVIEW Menus.vi" Type="VI" URL="../project/BenjaminR/IDE Tools/BenjaminR - Refresh LabVIEW Menus.vi"/>
 					<Item Name="IDE Tools.txt" Type="Document" URL="../project/BenjaminR/IDE Tools/IDE Tools.txt"/>
 				</Item>
 				<Item Name="VI Tools" Type="Folder">
-					<Item Name="benjamin_r - Determine ConPane Pattern.vi" Type="VI" URL="../project/BenjaminR/VI Tools/benjamin_r - Determine ConPane Pattern.vi"/>
-					<Item Name="benjamin_r - Get VI Information.vi" Type="VI" URL="../project/BenjaminR/VI Tools/benjamin_r - Get VI Information.vi"/>
-					<Item Name="benjamin_r - Save Global.vi" Type="VI" URL="../project/BenjaminR/VI Tools/benjamin_r - Save Global.vi"/>
-					<Item Name="benjamin_r - System Error Replacement.vi" Type="VI" URL="../project/BenjaminR/VI Tools/benjamin_r - System Error Replacement.vi"/>
+					<Item Name="BenjaminR - Determine ConPane Pattern.vi" Type="VI" URL="../project/BenjaminR/VI Tools/BenjaminR - Determine ConPane Pattern.vi"/>
+					<Item Name="BenjaminR - Get VI Information.vi" Type="VI" URL="../project/BenjaminR/VI Tools/BenjaminR - Get VI Information.vi"/>
+					<Item Name="BenjaminR - Save Global.vi" Type="VI" URL="../project/BenjaminR/VI Tools/BenjaminR - Save Global.vi"/>
+					<Item Name="BenjaminR - System Error Replacement.vi" Type="VI" URL="../project/BenjaminR/VI Tools/BenjaminR - System Error Replacement.vi"/>
 					<Item Name="VI Tools.txt" Type="Document" URL="../project/BenjaminR/VI Tools/VI Tools.txt"/>
 				</Item>
-				<Item Name="benjamin_r - Create New VI from Template.vi" Type="VI" URL="../project/BenjaminR/benjamin_r - Create New VI from Template.vi"/>
+				<Item Name="BenjaminR - Create New VI from Template.vi" Type="VI" URL="../project/BenjaminR/BenjaminR - Create New VI from Template.vi"/>
 				<Item Name="benjamin_r.txt" Type="Document" URL="../project/BenjaminR/benjamin_r.txt"/>
 			</Item>
 		</Item>
 		<Item Name="help" Type="Folder">
 			<Item Name="BenjaminR" Type="Folder">
-				<Item Name="benjamin_r - About.vi" Type="VI" URL="../help/BenjaminR/benjamin_r - About.vi"/>
-				<Item Name="benjamin_r - LabVIEW Menus (Help).vi" Type="VI" URL="../help/BenjaminR/benjamin_r - LabVIEW Menus (Help).vi"/>
+				<Item Name="BenjaminR - About.vi" Type="VI" URL="../help/BenjaminR/BenjaminR - About.vi"/>
+				<Item Name="BenjaminR - LabVIEW Menus (Help).vi" Type="VI" URL="../help/BenjaminR/BenjaminR - LabVIEW Menus (Help).vi"/>
 				<Item Name="BenjaminR LabVIEW Menus.htm" Type="Document" URL="../help/BenjaminR/BenjaminR LabVIEW Menus.htm"/>
 			</Item>
 		</Item>
