@@ -88,7 +88,8 @@ BenjaminR LabVIEW Menu VIs into the LabVIEW Menus (File, Tools, and Help).
 <ul>
 	<li style="padding-left: 10px;"><strong>About&nbsp;</strong>&ndash; Opens the BenjaminR About dialog.</li>
 	<p><img src="/src/help/BenjaminR/img/about.PNG" alt="" /></p>
-	<li style="padding-left: 10px;"><strong>LabVIEW Menus (Help)&nbsp;</strong>&ndash; Opens the BenjaminR LabVIEW Menus help in the default browser.</li>
+	<li style="padding-left: 10px;"><strong>LabVIEW Menus (Help)&nbsp;</strong>&ndash; Opens the <a href="https://bit.ly/3Px2ylV" target="_blank">BenjaminR LabVIEW Menus help</a> in the default browser.</li>
+
 </ul>
 <hr />
 
