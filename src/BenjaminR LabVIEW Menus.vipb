@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-02-25 00:45:48" Modified_Date="2022-08-15 00:13:11" Creator="Neo" Comments="" ID="33b80cedd525d05deeb044140d2a3ff7">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-02-25 00:45:48" Modified_Date="2022-08-15 16:06:18" Creator="Neo" Comments="" ID="97c178115c46b010d3c47d97edf57f09">
   <Library_General_Settings>
     <Package_File_Name>BenjaminR_LabVIEW_Menus</Package_File_Name>
-    <Library_Version>1.1.0.5</Library_Version>
+    <Library_Version>1.1.0.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\builds</Library_Output_Folder>
@@ -35,6 +35,7 @@
       <Packager>Benjamin Rouffet</Packager>
       <URL>https://benjaminrlabviewextensions.github.io/dev-tool-menu/</URL>
       <Release_Notes>- Add File menu item.
+- Add Get VI Information.
 - Add help file.
 - Add package dependency.</Release_Notes>
     </Description>

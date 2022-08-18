@@ -1,2 +1,2 @@
-IDE Tools - Quit and Restart LabVIEW.vi
-IDE Tools - Refresh LabVIEW Menus.vi
+BenjaminR - Quit and Restart LabVIEW.vi
+BenjaminR - Refresh LabVIEW Menus.vi

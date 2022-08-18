@@ -1,4 +1,5 @@
-VI Tools - Save Global.vi
-VI Tools - System Error Cluster Replacement.vi
+BenjaminR - Save Global.vi
+BenjaminR - System Error Cluster Replacement.vi
 -
-VI Tools - Determine ConPane Pattern.vi
+BenjaminR - Get VI Information.vi
+BenjaminR - Determine ConPane Pattern.vi
