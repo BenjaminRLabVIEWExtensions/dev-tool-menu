@@ -40,42 +40,42 @@ BenjaminR LabVIEW Menu VIs into the LabVIEW Menus (File, Tools, and Help).
 <p>Select File &gt;&gt; BenjaminR &gt;&gt; &lsquo;Tool&rsquo;. Tool menu items are described below.</p>
 <details open>
 	<summary>File Menu (Click to collapse)</summary>
-	<p><img src="/src/help/BenjaminR/img/fileMenu.png" alt="" /></p>
+	<p><img src="https://github.com/BenjaminRLabVIEWExtensions/dev-tool-menu/blob/c1634a14146c50c9c4f47c7b1403cfd560e380af/src/help/BenjaminR/img/fileMenu.png" alt="" /></p>
 </details>
 <ul>
 	<li style="padding-left: 10px;"><strong>New VI from Template</strong>&nbsp;&ndash; Creates a new VI from template.</li>
-	<p><img src="/src/help/BenjaminR/img/_BenjaminR_VI_Template.png" alt="" /></p>
+	<p><img src="https://github.com/BenjaminRLabVIEWExtensions/dev-tool-menu/blob/c1634a14146c50c9c4f47c7b1403cfd560e380af/src/help/BenjaminR/img/_BenjaminR_VI_Template.png" alt="" /></p>
 </ul>
 
 ## Tools Menu
 <p>Select Tools &gt;&gt; BenjaminR &gt;&gt; &lsquo;Tool&rsquo;. Tool menu items are described below</p>
 <details open>
 	<summary>Tools Menu (Click to collapse)</summary>
-	<p><img src="/src/help/BenjaminR/img/toolsMenu.png" alt="" /></p>
+	<p><img src="https://github.com/BenjaminRLabVIEWExtensions/dev-tool-menu/blob/c1634a14146c50c9c4f47c7b1403cfd560e380af/src/help/BenjaminR/img/toolsMenu.png" alt="" /></p>
 </details>
 <ul>
 	<li style="padding-left: 10px;"><strong>Create New VI from Template</strong>&nbsp;&ndash; Creates a new VI from template.</li>
-	<p><img src="/src/help/BenjaminR/img/_BenjaminR_VI_Template.png" alt="" /></p>
+	<p><img src="https://github.com/BenjaminRLabVIEWExtensions/dev-tool-menu/blob/c1634a14146c50c9c4f47c7b1403cfd560e380af/src/help/BenjaminR/img/_BenjaminR_VI_Template.png" alt="" /></p>
 	<li style="padding-left: 10px;"><strong>IDE Tools&nbsp;</strong>&ndash; Submenu containing tools interacting with the LabVIEW IDE.</li>
 	<details open>
 		<summary>IDE Tools Menu (Click to collapse)</summary>
-		<p><img src="/src/help/BenjaminR/img/ideToolMenu.png" alt="" /></p>
+		<p><img src="https://github.com/BenjaminRLabVIEWExtensions/dev-tool-menu/blob/c1634a14146c50c9c4f47c7b1403cfd560e380af/src/help/BenjaminR/img/ideToolMenu.png" alt="" /></p>
 	</details>
 	<li style="padding-left: 10px;"><strong>IDE Tools: Quit and Restart LabVIEW</strong>&nbsp;&ndash; Quits then restart LabVIEW.</li>
-	<p><img src="/src/help/BenjaminR/img/ideToolsRestart.PNG" alt="" /></p>
+	<p><img src="https://github.com/BenjaminRLabVIEWExtensions/dev-tool-menu/blob/c1634a14146c50c9c4f47c7b1403cfd560e380af/src/help/BenjaminR/img/ideToolsRefreshMenu.PNG" alt="" /></p>
 	<li style="padding-left: 10px;"><strong>IDE Tools: Refresh LabVIEW Menus</strong>&nbsp;&ndash; Refreshes the File, Tools, and Help menus.</li>
-	<p><img src="/src/help/BenjaminR/img/ideToolsRefreshMenu.PNG" alt="" /></p>
+	<p><img src="https://github.com/BenjaminRLabVIEWExtensions/dev-tool-menu/blob/c1634a14146c50c9c4f47c7b1403cfd560e380af/src/help/BenjaminR/img/ideToolsRestart.PNG" alt="" /></p>
 	<li style="padding-left: 10px;"><strong>VI Tools&nbsp;</strong>&ndash; Submenu containing tools interacting with VIs.</li>
 	<details open>
 		<summary>VI Tools Menu (Click to collapse)</summary>
-		<p><img src="/src/help/BenjaminR/img/viToolMenu.png" alt="" /></p>
+		<p><img src="https://github.com/BenjaminRLabVIEWExtensions/dev-tool-menu/blob/c1634a14146c50c9c4f47c7b1403cfd560e380af/src/help/BenjaminR/img/viToolMenu.png" alt="" /></p>
 	</details>
 	<li style="padding-left: 10px;"><strong>VI Tools: Determine ConPane Pattern</strong>&nbsp;&ndash; Select a Connector Pane pattern in the ring and run the VI to find out the pattern number.</li>
-	<p><img src="/src/help/BenjaminR/img/viToolsConPane.png" alt="" /></p>
+	<p><img src="https://github.com/BenjaminRLabVIEWExtensions/dev-tool-menu/blob/c1634a14146c50c9c4f47c7b1403cfd560e380af/src/help/BenjaminR/img/viToolsConPane.png" alt="" /></p>
 	<li style="padding-left: 10px;"><strong>VI Tools: Save Global</strong>&nbsp;&ndash;Changes the defaults of all controls on the front panel to be the current values and saves the VI.</li>
-	<p><img src="/src/help/BenjaminR/img/viToolsSaveGlobal.png" alt="" /></p>
+	<p><img src="https://github.com/BenjaminRLabVIEWExtensions/dev-tool-menu/blob/c1634a14146c50c9c4f47c7b1403cfd560e380af/src/help/BenjaminR/img/viToolsSaveGlobal.png" alt="" /></p>
 	<li style="padding-left: 10px;"><strong>VI Tools: System Error Cluster Replacement</strong>&nbsp;&ndash; Replaces the current error clusters on the front panel with System error cluster.</li>
-	<p><img src="/src/help/BenjaminR/img/viToolsReplaceError.png" alt="" /></p>
+	<p><img src="https://github.com/BenjaminRLabVIEWExtensions/dev-tool-menu/blob/c1634a14146c50c9c4f47c7b1403cfd560e380af/src/help/BenjaminR/img/viToolsReplaceError.png" alt="" /></p>
 </ul>
 
 ## Help Menu
@@ -83,11 +83,11 @@ BenjaminR LabVIEW Menu VIs into the LabVIEW Menus (File, Tools, and Help).
 <p>Select Help &gt;&gt; BenjaminR &gt;&gt; &lsquo;Tool. Tool menu items are described below.</p>
 <details open>
 	<summary>Help Menu (Click to collapse)</summary>
-	<p><img src="/src/help/BenjaminR/img/helpMenu.png" alt="" /></p>
+	<p><img src="https://github.com/BenjaminRLabVIEWExtensions/dev-tool-menu/blob/c1634a14146c50c9c4f47c7b1403cfd560e380af/src/help/BenjaminR/img/helpMenu.png" alt="" /></p>
 </details>
 <ul>
 	<li style="padding-left: 10px;"><strong>About&nbsp;</strong>&ndash; Opens the BenjaminR About dialog.</li>
-	<p><img src="/src/help/BenjaminR/img/about.PNG" alt="" /></p>
+	<p><img src="https://github.com/BenjaminRLabVIEWExtensions/dev-tool-menu/blob/c1634a14146c50c9c4f47c7b1403cfd560e380af/src/help/BenjaminR/img/about.PNG" alt="" /></p>
 	<li style="padding-left: 10px;"><strong>LabVIEW Menus (Help)&nbsp;</strong>&ndash; Opens the <a href="https://bit.ly/3Px2ylV" target="_blank">BenjaminR LabVIEW Menus help</a> in the default browser.</li>
 
 </ul>
