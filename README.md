@@ -62,9 +62,9 @@ BenjaminR LabVIEW Menu VIs into the LabVIEW Menus (File, Tools, and Help).
 		<p><img src="/src/help/BenjaminR/img/ideToolMenu.png" alt="" /></p>
 	</details>
 	<li style="padding-left: 10px;"><strong>IDE Tools: Quit and Restart LabVIEW</strong>&nbsp;&ndash; Quits then restart LabVIEW.</li>
-	<p><img src="/src/help/BenjaminR/img/ideToolsRestart.png" alt="" /></p>
+	<p><img src="/src/help/BenjaminR/img/ideToolsRestart.PNG" alt="" /></p>
 	<li style="padding-left: 10px;"><strong>IDE Tools: Refresh LabVIEW Menus</strong>&nbsp;&ndash; Refreshes the File, Tools, and Help menus.</li>
-	<p><img src="/src/help/BenjaminR/img/ideToolsRefreshMenu.png" alt="" /></p>
+	<p><img src="/src/help/BenjaminR/img/ideToolsRefreshMenu.PNG" alt="" /></p>
 	<li style="padding-left: 10px;"><strong>VI Tools&nbsp;</strong>&ndash; Submenu containing tools interacting with VIs.</li>
 	<details open>
 		<summary>VI Tools Menu (Click to collapse)</summary>
